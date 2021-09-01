@@ -1,0 +1,46 @@
+<main>
+  <h1 class="page-title">KULLANICI YÖNETİMİ</h1>
+  <p class="page-description">Kullanıcı Tanımları</p>
+
+  <div class="card">
+    <div class="row">
+      <div class="col col-md-7" style="padding:30px !important">
+        <button class="btn btn-success">Yeni kullanıcı</button>
+        <table class="table table-bordered table-responsive table-hover">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">TC No</th>
+              <th scope="col">İsim</th>
+              <th scope="col">Kullanıcı Adı</th>
+              <th scope="col">EPosta</th>
+              <th scope="col">Rol</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">{{user.UserID}}</th>
+              <td class="v-ali">{{user.TcNo}}</td>
+              <td>{{user.FullName}}</td>
+              <td>{{user.UserName}}</td>
+              <td>{{user.Email}}</td>
+              <td>{{user.IsAdmin}}</td>
+              <td style="padding:0px !important;">
+                <button class="btn btn-info">
+                Düzenle
+              </button>
+              <button class="btn btn-danger">
+                Sil
+              </button>
+            </td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>
+    </div>
+  </div>
+
+</main>
+

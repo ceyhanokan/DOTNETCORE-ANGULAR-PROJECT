@@ -1,0 +1,17 @@
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\Core.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\Entities.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\Core.pdb
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\bin\Debug\net5.0\Entities.pdb
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\ODAKGIS\ODAKGIS_PROJECT\DataAccess\obj\Debug\net5.0\DataAccess.pdb
